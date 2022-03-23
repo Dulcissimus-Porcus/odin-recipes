@@ -1,0 +1,11 @@
+.heading {
+    text-align: center;
+}
+body {
+    background-color: #9DC183;
+}
+ul li a {
+    font-size: 36px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif
+}
